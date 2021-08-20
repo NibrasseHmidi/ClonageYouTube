@@ -1,0 +1,14 @@
+.body {
+  position: relative;
+  padding: 20px 0;
+  background-color: rgb(247, 247, 247);
+  display: flex;
+  justify-content: space-between;
+}
+
+.row1 {
+  width: 805px;
+}
+.row2 {
+  width: 410px;
+}

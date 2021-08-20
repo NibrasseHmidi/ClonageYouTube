@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap");
+.video {
+  top: 20px;
+  margin: 10px 40px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+}
+.info p {
+  color: #1776b6;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 1px 40px;
+}
+.info h1 {
+  font-size: 18px;
+  line-height: 26px;
+  margin: 1px 40px;
+  font-family: "Roboto", sans-serif;
+}
+.vues {
+  display: flex;
+  width: 805px;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  color: #606060;
+  margin: 10px 40px;
+  font-family: "Roboto", sans-serif;
+  border-bottom: 1px solid #dbd8d8;
+}
+.vues p {
+  margin: 0 0 20px 0;
+}
+.like-span {
+  display: flex;
+  margin: 0 80px;
+  font-size: 25px;
+  color: #838282;
+  border-bottom: 2px solid #6e6d6d;
+}
+.like {
+  margin: 0 5px;
+}
+.like span {
+  font-size: 15px;
+}
+
+.partage {
+  font-size: 15px;
+}
+.partage span {
+  font-size: 13px;
+}
+.telecharger {
+  font-size: 15px;
+  padding: 0 17px;
+}
+.telecharger span {
+  font-size: 13px;
+}
+.point sup {
+  font-size: 35px;
+  top: 0;
+}
+.info-auto {
+  width: 805px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+  border-bottom: 1px solid #dbd8d8;
+}
+.info-ha {
+  display: flex;
+}
+.info-ha img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.info-ha h1 {
+  font-size: 14px;
+  margin: 10px;
+  color: black;
+}
+.info-ha span {
+  color: #525050;
+  font-size: 12px;
+}
+.info-ha p {
+  font-size: 12px;
+  margin: 0 10px 30px 0;
+  color: #606060;
+}
+.info-ha h6 {
+  color: black;
+  font-size: 15px;
+}
+.info-auto button {
+  width: 110px;
+  height: 36px;
+  background-color: #cc0000;
+  font-size: 14px;
+  margin: 0 4px 0 4px;
+  padding: 10px 16px 10px 16px;
+  border: none;
+  color: white;
+  border-radius: 2px;
+  font-family: "Roboto", sans-serif;
+}
